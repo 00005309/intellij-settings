@@ -1,0 +1,30 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.xsl</mask>
+    <mask>*report*.java</mask>
+    <mask>pom.xml</mask>
+    <mask>mapping*.xml</mask>
+    <mask>*Test.java</mask>
+    <mask>ppm-spring*.xml</mask>
+    <mask>*ppm*</mask>
+    <mask>*faces*</mask>
+    <mask>*.prop*</mask>
+    <mask>*.java*</mask>
+    <mask>*.java</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+  </component>
+</application>
